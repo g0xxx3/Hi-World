@@ -1,12 +1,5 @@
 {
 "name": "Page translater",
 "manifest-version": 2,
-"version": "0.1",
-"browser-action":{
-  "default_title": "Life's good/sucks"
-},
-
-"icons": {
-  "48": "icon.svg"
-}
+"version": "0.1"
 }
