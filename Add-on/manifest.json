@@ -11,4 +11,5 @@
 	"icons": {
 		"48": "../icon.svg"
 	}
+	"permissions": ["activeTab", "tabs"]
 }
