@@ -1,2 +1,7 @@
-# Hi-World
-My first reporistory ever. Please help me adopt this world. I mean Github world.
+# Hi Github!
+<br>
+<br>Used as source for my blog mdkn @ <a href='mdkn.atspace.cc'>atspace.com</a>
+<br>
+<br><b>My first reporistory ever.</b>
+
+
