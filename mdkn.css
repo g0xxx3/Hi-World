@@ -90,6 +90,14 @@ td{
   height: 100%;
 }
 
+.button{
+  background-color: darkgray;
+}
+
+.button:hover{
+  background-color: gray;
+}
+
 .drop {
   display: none;
 }
