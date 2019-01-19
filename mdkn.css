@@ -51,7 +51,7 @@ td{
 #main {
   border-left: 2px solid coral;
   padding: 12px;
-  margin-right: 25%;
+  margin-right: 25% auto;
   min-width: 50%;
 }
 
