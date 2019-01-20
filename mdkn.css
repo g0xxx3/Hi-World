@@ -25,7 +25,8 @@ a:hover {
 }
 
 a,
-.title {
+.title,
+.answer:hover{
   color: coral;
 }
 
@@ -97,6 +98,16 @@ td{
 
 .button:hover{
   background-color: darkgray;
+}
+
+.answer{
+  color: white;
+  background-color: white;
+}
+
+.problem{
+  color: silver;
+  border-bottom: 0.1px solid gray;
 }
 
 .drop {
