@@ -106,8 +106,8 @@ td{
 }
 
 .problem{
-  color: silver;
-  border-bottom: 0.1px solid gray;
+  color: darkgray;
+  border-bottom: 0.1px solid silver;
 }
 
 .drop {
