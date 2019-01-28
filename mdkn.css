@@ -43,8 +43,8 @@ td{
 ********************/
 
 #header {
-  /**background-image: url("https://raw.githack.com/mhmmdk/gallery/master/back/satallite-logo2.jpg");*/
-  background-color: black;
+  /**background-image: url("https://raw.githack.com/mhmmdk/gallery/master/back/satallite-logo2.jpg");
+  background-color: black;*/
   min-height: 25px;
   padding: 12px;
 }
