@@ -81,8 +81,8 @@ td{
 #header,
 .black{
   color: silver;
-  /*background-color: black;*/
-  border-bottom: 3px solid red;
+  background-color: black;
+  border-bottom: 5px solid red;
 }
 
 #footer:hover,
