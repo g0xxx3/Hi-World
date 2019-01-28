@@ -81,7 +81,7 @@ td{
 #header,
 .black{
   color: silver;
-  background-color: black;
+  /*background-color: black;*/
   border-bottom: 3px solid red;
 }
 
