@@ -82,6 +82,7 @@ td{
 .black{
   color: silver;
   background-color: black;
+  border-bottom: 3px solid red;
 }
 
 #footer:hover,
