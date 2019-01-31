@@ -22,35 +22,65 @@ body {
 ** Custom **
 ***********/
 
-a {
-  text-decoration: none;
-  font-weight: 600;
-}
-
-a:hover {
-  color: blue;
+a,
+h1,
+h3,
+h4{
+  font-weight: 500;
+  font-style: italic;
 }
 
 a{
-  color: #005;
+  text-decoration: none;
 }
+
+a:hover,
+.button{
+  color: blue;
+}
+
 
 td{
   padding: 0 21px;
 }
-h3{
-  color: #500;
+
+
+header,
+.answer,
+.color{
+/* primary color */
+  color: #aaa;
 }
 
-#story {
-  font-family: Verdana;
+h3,
+.problem,
+.button,
+.color1{
+  /* secondary color */
+  color: #055;
+}
+
+header,
+.header,
+.answer,
+.bkg{
+  /* Primary bkg color */
+  background-color: #555;
+}
+
+h3,
+mark,
+.button,
+bkg1{
+  /* Secondary bkg color ... */
+  background-color: #f2f5f5;
 }
 
 /*******************
 ** The containers **
 ********************/
 
-#header {
+header {
   /**background-image: url("https://raw.githack.com/mhmmdk/gallery/master/back/satallite-logo2.jpg");
   background-color: black;*/
   min-height: 25px;
@@ -65,7 +95,7 @@ h3{
 }
 
 #nav {
-  float: left;
+  float: right;
   padding: 1.5em;
   padding-left: 7%;
   max-width: 21%;
@@ -80,27 +110,21 @@ h3{
   margin: auto;
 }
 
-#footer {
+footer {
   position: relative;
   bottom: 0;
 }
 
-#footer,
-#header,
+footer,
+header,
 .black{
   color: white;
   background-color: #555;
   border-bottom: 2px solid #500;
 }
 
-#footer:hover,
-#header:hover,
-.black:hover{
-  color: white;
-}
 
-
-/************Classes*******/
+/************ Classes *******/
 
 .sticky {
   position: fixed;
@@ -120,12 +144,6 @@ h3{
 
 .button:hover{
   background-color: darkgray;
-}
-
-.answer{
-  color: silver;
-  background-color: #555;
-  padding: 2px;
 }
 
 .problem{
