@@ -46,6 +46,7 @@ td{
 
 
 h3,
+footer,
 header,
 .answer,
 .color{
@@ -63,7 +64,7 @@ header,
 
 h3,
 header,
-.header,
+footer,
 .answer,
 .bkg{
   /* Primary bkg color */
