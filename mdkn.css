@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
   font-family: CONSOLA, serif;
   font-size: 15pt;
-  letter-spacing: 0.015em;
+  letter-spacing: -0.05em;
   font-weight: lighter;
 }
 
