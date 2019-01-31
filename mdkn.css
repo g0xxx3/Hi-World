@@ -45,6 +45,7 @@ td{
 }
 
 
+h3,
 header,
 .answer,
 .color{
@@ -52,7 +53,6 @@ header,
   color: #aaa;
 }
 
-h3,
 .problem,
 .button,
 .color1{
@@ -60,6 +60,8 @@ h3,
   color: #055;
 }
 
+
+h3
 header,
 .header,
 .answer,
@@ -68,6 +70,7 @@ header,
   background-color: #555;
 }
 
+.button:hover,
 h3,
 mark,
 .button,
@@ -110,17 +113,10 @@ header {
   margin: auto;
 }
 
+
 footer {
   position: relative;
   bottom: 0;
-}
-
-footer,
-header,
-.black{
-  color: white;
-  background-color: #555;
-  border-bottom: 2px solid #500;
 }
 
 
@@ -133,21 +129,13 @@ header,
   width: 100%;
 }
 
+
 .page {
   height: 100%;
 }
 
-.button{
-  background-color: #555;
-  padding: 7px;
-}
-
-.button:hover{
-  background-color: darkgray;
-}
 
 .problem{
-  color: #090909;
   border-bottom: 0.009px solid #500;
 }
 
