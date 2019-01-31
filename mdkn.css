@@ -99,7 +99,7 @@ header {
   padding: 1.5em;
   padding-left: 7%;
   max-width: 21%;
-  margin: auto;
+  margin-right: auto;
 }
 
 /** aligning main and nav **/
