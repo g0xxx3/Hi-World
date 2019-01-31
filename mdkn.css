@@ -7,9 +7,16 @@ body {
   height: 100%;
   width: 100%;
   margin: 0 auto;
-  font-family: Times, serif;
-  font-size: 12pt;
+  font-family: CONSOLA, serif;
+  font-size: 13.5pt;
+  letter-spacing: -0.05em;
+  font-weight: bolder;
 }
+
+@font-face {
+    font-family: "CONSOLA";
+    src: url(https://raw.githack.com/g0xxx3uru/md/master/CONSOLA.TTF) format("truetype");
+  }
 
 /***********
 ** Custom **
