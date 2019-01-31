@@ -99,7 +99,8 @@ header {
   padding: 1.5em;
   padding-left: 7%;
   max-width: 21%;
-  margin-right: auto;
+  margin-right: 0 auto;
+  margin-left: auto;
 }
 
 /** aligning main and nav **/
@@ -119,14 +120,6 @@ footer {
 
 
 /************ Classes *******/
-
-.sticky {
-  position: fixed;
-  bottom: 0;
-  float: left;
-  width: 100%;
-}
-
 
 .page {
   height: 100%;
