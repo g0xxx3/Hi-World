@@ -96,10 +96,10 @@ header {
 }
 
 #nav {
-  float: right;
   padding: 1.5em;
   padding-left: 7%;
   max-width: 21%;
+  margin: auto;
 }
 
 /** aligning main and nav **/
