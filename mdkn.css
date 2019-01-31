@@ -34,11 +34,6 @@ a{
   text-decoration: none;
 }
 
-a:hover,
-.button{
-  color: blue;
-}
-
 
 td{
   padding: 0 21px;
@@ -69,15 +64,17 @@ footer,
 .bkg{
   /* Primary bkg color */
   background-color: #555;
+  padding: 3px;
 }
 
 .button:hover,
 h3,
 mark,
-.button,
+.button:hover,
 bkg1{
   /* Secondary bkg color ... */
   background-color: #f2f5f5;
+  padding: 3px;
 }
 
 /*******************
