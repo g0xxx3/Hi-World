@@ -46,7 +46,7 @@ header,
 .answer,
 .color{
 /* primary color */
-  color: #aaa;
+  color: #599;
 }
 
 .problem,
@@ -55,6 +55,11 @@ header,
   /* secondary color */
   color: #055;
 }
+
+color3{
+  color: #aaa;
+}
+
 
 
 h3,
