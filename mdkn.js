@@ -1,6 +1,6 @@
 
 console.log('hi');
-function finally(){
+function f(){
     var name = document.getElementById('name');
     name.setAttribute('value', document.getElementById('n').innerText);
 
@@ -8,6 +8,6 @@ function finally(){
     comment.setAttribute('value', document.getElementById('c').innerText);
 }
 
-var submit = document.getElementById('finally');
+var submit = document.getElementById('f');
 
-submit.addEventListener('click', finally);
+submit.addEventListener('click', f);
