@@ -36,7 +36,8 @@ a{
 }
 
 
-td{
+td, 
+td:hover{
   padding: 0 21px;
 }
 
