@@ -76,6 +76,13 @@ bkg1{
   padding: 3px;
 }
 
+bkg2{
+  background-color: #aaa;
+}
+
+bkg3{
+  background-color: #055;
+}
 /*******************
 ** The containers **
 ********************/
