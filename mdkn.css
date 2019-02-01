@@ -70,19 +70,28 @@ header,
 .bkg{
   /* Primary bkg color */
   background-color: #555;
-  padding: 3px;
 }
 
-.button:hover,
+
 h3,
 mark,
+.hover:hover,
 .button:hover,
-.hover,
 .bkg1{
   /* Secondary bkg color ... */
   background-color: #f2f5f5;
-  padding: 3px;
+  }
+
+header,
+h3,
+mark{
+  padding: 5px;
 }
+.hover,
+.button{
+  padding: 15px;
+}
+
 
 .bkg2{
   background-color: #aaa;
@@ -114,6 +123,7 @@ header {
   background-color: black;*/
   min-height: 25px;
   padding: 27px;
+  box-shadow: 0px 3px;
 }
 
 #main {
