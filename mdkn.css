@@ -37,7 +37,9 @@ a{
 
 
 td, 
-td:hover{
+td:hover,
+.hover,
+.hover:hover{
   padding: 0 21px;
 }
 
@@ -63,11 +65,6 @@ header,
   color: #aaa;
 }
 
-td:hover, 
-.hover:hover{
-  background-color: silver;
-}
-
 h3,
 header,
 .answer,
@@ -81,6 +78,7 @@ header,
 h3,
 mark,
 .button:hover,
+.hover,
 .bkg1{
   /* Secondary bkg color ... */
   background-color: #f2f5f5;
