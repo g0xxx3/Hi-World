@@ -41,6 +41,7 @@ td{
 }
 
 
+
 h3,
 footer,
 header,
@@ -61,6 +62,7 @@ header,
   color: #aaa;
 }
 
+td:hover, 
 .hover:hover{
   background-color: silver;
 }
