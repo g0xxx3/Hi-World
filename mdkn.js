@@ -1,3 +1,5 @@
+
+console.log('hi');
 function finally(){
     var name = document.getElementById('name');
     name.setAttribute('value', document.getElementById('n').innerText);
