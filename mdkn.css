@@ -35,7 +35,6 @@ a{
   text-decoration: none;
 }
 
-
 td, 
 td:hover,
 .hover,
@@ -44,7 +43,7 @@ td:hover,
 }
 
 
-
+a:hover,
 h3,
 footer,
 .answer,
