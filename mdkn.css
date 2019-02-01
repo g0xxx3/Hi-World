@@ -60,7 +60,9 @@ header,
   color: #aaa;
 }
 
-
+.hover:hover{
+  background-color: silver;
+}
 
 h3,
 header,
@@ -98,7 +100,7 @@ mark,
   margin-left: 0 auto;
 }
 
-mrgy{
+.mrgy{
   margin-top: 0 auto;
   margin-bottom: 0 auto;
 }
