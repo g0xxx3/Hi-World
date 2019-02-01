@@ -39,7 +39,7 @@ td,
 td:hover,
 .hover,
 .hover:hover{
-  padding: 0 21px;
+  padding: 21px;
 }
 
 
@@ -66,6 +66,7 @@ footer,
 h3,
 header,
 .answer,
+.hover:hover,
 .bkg{
   /* Primary bkg color */
   background-color: #555;
@@ -74,7 +75,6 @@ header,
 
 h3,
 mark,
-.hover:hover,
 .button:hover,
 input[type=submit]:hover,
 .bkg1{
@@ -88,6 +88,7 @@ mark{
   padding: 5px;
 }
 .hover,
+.hover:hover,
 .button{
   padding: 15px;
 }
