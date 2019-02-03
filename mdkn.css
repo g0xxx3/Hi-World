@@ -11,7 +11,6 @@ body {
   font-family: CONSOLA, serif;
   font-size: 15pt;
   letter-spacing: -0.05em;
-  font-weight: lighter;
 }
 
 @font-face {
@@ -27,7 +26,7 @@ a,
 h1,
 h3,
 h4{
-  font-weight: 500;
+  font-weight: 400;
   font-style: italic;
 }
 
@@ -123,8 +122,7 @@ header {
   /**background-image: url("https://raw.githack.com/mhmmdk/gallery/master/back/satallite-logo2.jpg");
   background-color: black;*/
   min-height: 25px;
-  padding: 27px;
-  box-shadow: 0px 3px;
+  padding: 33px;
 }
 
 #main {
@@ -163,6 +161,10 @@ footer {
   height: 100%;
 }
 
+
+.shadow{
+    box-shadow: 1px 1px silver;
+}
 
 .problem{
   border-bottom: 0.009px solid #500;
