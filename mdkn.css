@@ -53,6 +53,7 @@ footer,
 
 .problem,
 .button,
+.home:visited;
 .color1{
   /* secondary color */
   color: #055;
@@ -167,6 +168,12 @@ footer {
 .shadow{
     box-shadow: 1px 1px silver;
 }
+
+.home:hover,
+.home:active{
+  font-size: 150%;
+}
+
 
 .problem{
   border-bottom: 0.009px solid #500;
