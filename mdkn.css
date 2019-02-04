@@ -44,6 +44,9 @@ td:hover,
 
 a:hover,
 h3,
+h4,
+h2,
+h1,
 footer,
 .answer,
 .color{
@@ -53,7 +56,8 @@ footer,
 
 .problem,
 .button,
-.home:visited;
+.home:visited,
+a:visited,
 .color1{
   /* secondary color */
   color: #055;
@@ -63,7 +67,7 @@ footer,
   color: #aaa;
 }
 
-h3,
+
 .answer,
 .hover:hover,
 .bkg{
