@@ -171,7 +171,13 @@ footer {
 
 .home:hover,
 .home:active{
-  font-size: 150%;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.big:hover,
+.big:active{
+  font-size: 130%;
 }
 
 
